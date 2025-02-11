@@ -11,7 +11,7 @@
 ### Nmap Scan
 
 ### Open Ports & Services
-Syntax: Port ; Service ; Version
+#### Syntax: Port ; Service ; Version
 
 ---
 
@@ -41,5 +41,6 @@ Syntax: Port ; Service ; Version
 
 ---
 
-Perceived Difficulty: 
+Perceived Difficulty:  
+
 Time Taken: 
