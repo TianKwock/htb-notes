@@ -33,7 +33,7 @@
 
 ## Post-Exploitation
 
-### [Flags](https://github.com/htb-flags/blob/main/README.md#x)
+### [Flags](https://github.com/htb-flags/blob/main/README.md)
 
 ---
 
