@@ -4,4 +4,4 @@
 
 ### Starting Point Machines
 
-- [Meow](htb-notes/machines/very-easy-machines/meow.md)
+- [Meow](machines/very-easy-machines/meow.md)
