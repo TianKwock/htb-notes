@@ -33,7 +33,7 @@ A simple 'ls' revealed a txt file called "flag.txt"
 
 ### Flags
 
-flag: b40abdfe23665f766f9c61ecba8a4c19
+[Flags](https://github.com/tiankwock/htb-flags/README.md#meow)
 
 ---
 
