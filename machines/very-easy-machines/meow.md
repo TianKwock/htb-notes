@@ -31,9 +31,7 @@ Port 23 was open and running telnet, and root login was enabled.
 
 A simple 'ls' revealed a txt file called "flag.txt"
 
-### Flags
-
-[Flags](https://github.com/tiankwock/htb-flags/blob/main/README.md#meow)
+### [Flags](https://github.com/tiankwock/htb-flags/blob/main/README.md#meow)
 
 ---
 
