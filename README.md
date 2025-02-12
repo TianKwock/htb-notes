@@ -8,3 +8,4 @@
 - [Fawn](machines/very-easy-machines/fawn.md)
 - [Dancing](machines/very-easy-machines/dancing.md)
 - [Redeemer](machines/very-easy-machines/redeemer.md)
+- [Appointment](machines/very-easy-machines/appointment.md)
