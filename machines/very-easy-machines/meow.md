@@ -23,6 +23,9 @@ nmap -T5 -sV 10.129.112.32
 
 ## Exploitation
 
+```
+telnet 10.129.112.32
+```
 Port 23 was open and running telnet, and root login was enabled.
 
 ---
