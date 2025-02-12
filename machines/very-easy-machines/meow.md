@@ -1,6 +1,6 @@
 # Meow (Very Easy)
 - **IP Address:** '10.129.112.32'
-- **OS:** Windows/Linux
+- **OS:** Linux
 - **Difficulty:** Very Easy
 - **HTB Link:** [Machine Page](https://app.hackthebox.com/starting-point)
 
