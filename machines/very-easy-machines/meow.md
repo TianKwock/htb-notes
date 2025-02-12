@@ -41,7 +41,7 @@ A simple 'ls' revealed a txt file called "flag.txt"
 ## Lessons Learned
 
 1. Telnet has a root login option that can use a blank password.
-2. The -sV tag for nmap shows you the name and description of serives. 
+2. The -sV tag for nmap shows you the name and description of services. 
 
 ---
 
