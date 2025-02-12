@@ -48,3 +48,5 @@ A simple 'ls' revealed a txt file called "flag.txt"
 Perceived Difficulty: Piece of Cake!  
  
 Time Taken: 5 min
+
+Date PWNED: 2/11/2025
