@@ -10,34 +10,56 @@
 
 ### Nmap Scan
 
+```
+
+```
+
 ### Open Ports & Services
 #### Syntax: Port ; Service ; Version
+
+
 
 ---
 
 ## Exploitation
 
+
+
 ### Credential Discovery
 
+
+
 ### Vulnerabiliy Exploited 
+
+
 
 ---
 
 ## Privilege Escalation
 
+
+
 ### Enumeration for PrivEsc
 
+
+
 ### Root Exploitation
+
+
 
 ---
 
 ## Post-Exploitation
+
+
 
 ### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md)
 
 ---
 
 ## Lessons Learned
+
+
 
 ---
 
