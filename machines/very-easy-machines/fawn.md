@@ -38,7 +38,7 @@ Anonymous login was enabled for ftp.
 
 ## Post-Exploitation
 
-### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#fawn.md))
+### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#fawn.md)
 
 ---
 
