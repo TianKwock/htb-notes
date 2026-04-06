@@ -2,7 +2,7 @@
 - **IP Address:** '10.10.X.X'
 - **OS:** Windows/Linux
 - **Difficulty:** Very Easy/Easy/Medium/Hard/Insane
-- **HTB Link:** [Machine Page](https://app.hackthebox.com/machiens/xxx)
+- **HTB Link:** [Machine Page](https://app.hackthebox.com/machines/X)
 
 ---
 
@@ -53,7 +53,7 @@
 
 
 
-### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md)
+### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#X)
 
 ---
 
