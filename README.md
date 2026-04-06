@@ -10,3 +10,4 @@
 - [Redeemer](machines/very-easy-machines/redeemer.md)
 - [Appointment](machines/very-easy-machines/appointment.md)
 - [Sequel](machines/very-easy-machines/sequel.md)
+- [Crocodile](machines/very-easy-machines/crocodile.md)
