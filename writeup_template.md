@@ -7,7 +7,6 @@
 ---
 
 ## Enumeration 
-
 ### Nmap Scan
 
 ```
@@ -15,43 +14,39 @@
 ```
 
 ### Open Ports & Services
-#### Syntax: Port ; Service ; Version
-
+| Port | Service | Version |
+|------|---------|---------|
 
 
 ---
 
 ## Exploitation
+### Vulnerabiliy Identified
 
 
 
-### Credential Discovery
+### Exploitation Steps
 
+```
 
+```
 
-### Vulnerabiliy Exploited 
-
-
+### Initial Foothold
 
 ---
 
 ## Privilege Escalation
-
-
-
-### Enumeration for PrivEsc
+### PrivEsc Enumeration 
 
 
 
 ### Root Exploitation
 
+```
 
+```
 
 ---
-
-## Post-Exploitation
-
-
 
 ### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#X)
 
