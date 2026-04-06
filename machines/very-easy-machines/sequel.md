@@ -2,7 +2,7 @@
 - **IP Address:** '10.129.88.114'
 - **OS:** Linux
 - **Difficulty:** Very Easy
-- **HTB Link:** [Machine Page](https://app.hackthebox.com/machine/Sequel)
+- **HTB Link:** [Machine Page](https://app.hackthebox.com/machines/Sequel)
 
 ---
 
