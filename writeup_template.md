@@ -1,5 +1,5 @@
 # Machine Name (Difficulty)
-- **IP Address:** '10.10.X.X'
+- **IP Address:** '10.X.X.X'
 - **OS:** Windows/Linux
 - **Difficulty:** Very Easy/Easy/Medium/Hard/Insane
 - **HTB Link:** [Machine Page](https://app.hackthebox.com/machines/X)
