@@ -44,7 +44,7 @@ Used the credentials found in the ftp server to escalate to admin privileges in 
 
 ---
 
-### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#crocodile.md)
+### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#crocodile)
 
 ---
 
