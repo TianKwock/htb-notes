@@ -52,7 +52,7 @@ will retrieve the flag for us.
 
 There were also 3 other keys that we could have looted.
 
-### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#redeemer.md)
+### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#redeemer)
 
 ---
 
