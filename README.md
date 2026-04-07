@@ -11,3 +11,5 @@
 - [Appointment](machines/very-easy-machines/appointment.md)
 - [Sequel](machines/very-easy-machines/sequel.md)
 - [Crocodile](machines/very-easy-machines/crocodile.md)
+- [Responder](machines/very-easy-machines/responder.md)
+- [Three](machines/very-easy-machines/three.md)
