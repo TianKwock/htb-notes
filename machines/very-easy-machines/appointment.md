@@ -40,7 +40,7 @@ This website did not sanitize login input, allowing us to perform an SQL injecti
 
 ---
 
-### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#appointment.md)
+### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#appointment)
 
 ---
 
