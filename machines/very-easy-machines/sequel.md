@@ -38,7 +38,7 @@ show tables;
 select * from config;
 ```
 
-### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#sequel.md)
+### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#sequel)
 
 ---
 
