@@ -52,7 +52,7 @@ One of the shares was poorly configured, allowing us to login without an appropr
 
 ## Post-Exploitation
 
-### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#dancing.md)
+### [Flags](https://github.com/TianKwock/htb-flags/blob/main/README.md#dancing)
 
 ---
 
