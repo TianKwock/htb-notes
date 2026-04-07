@@ -13,9 +13,12 @@
 
 ```
 
-### Open Ports & Services
 | Port | Service | Version |
 |------|---------|---------|
+
+
+### Further Enumeration
+
 
 
 ---
@@ -32,6 +35,8 @@
 ```
 
 ### Initial Foothold
+
+
 
 ---
 
