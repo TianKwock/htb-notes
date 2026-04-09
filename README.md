@@ -13,3 +13,5 @@
 - [Crocodile](machines/very-easy-machines/crocodile.md)
 - [Responder](machines/very-easy-machines/responder.md)
 - [Three](machines/very-easy-machines/three.md)
+- [Archetype](machines/very-easy-machines/archetype.md)
+
